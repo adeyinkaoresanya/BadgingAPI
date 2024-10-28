@@ -50,5 +50,5 @@ if (process.env.NODE_ENV === "development") {
     logger: console,
   });
 
-  smee.start();
+  //smee.start();
 }
